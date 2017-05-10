@@ -1,0 +1,21 @@
+{
+  "name": "httpApi",
+  "version": "1.0.0",
+  "description": "A repo to consume a web API from the command line",
+  "main": "httpApi.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tawakalt/httpApi.git"
+  },
+  "author": "Olaniyi Tawakalt",
+  "license": "MIT",
+  "bugs": {
+    "url": "git+https://github.com/Tawakalt/httpApi/issues"
+  },
+  "author": "Olaniyi Tawakalt",
+  "homepage": "https://github.com/Tawakalt/httpApi#readme"
+}
